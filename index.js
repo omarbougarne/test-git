@@ -8,11 +8,11 @@ const coolpersonne = "omar";
 console.log(coolpersonne);
 
 
-console.log("is this even working");
+console.log("is this even workinghhhhhh");
 
 
 
 function printName(){
-    const omar = "omar";
+    const test = "omar";
     return omar;
 }
