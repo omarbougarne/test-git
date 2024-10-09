@@ -1,0 +1,1 @@
+const hackingFirefox = console.log(window.document);
