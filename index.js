@@ -9,3 +9,10 @@ console.log(coolpersonne);
 
 
 console.log("is this even working");
+
+
+
+function printName(){
+    const omar = "omar";
+    return omar;
+}
