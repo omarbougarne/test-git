@@ -5,4 +5,7 @@ while(true){
 }
 
 const coolpersonne = "omar";
-console.log(coolpersonne)
+console.log(coolpersonne);
+
+
+console.log("is this even working");
