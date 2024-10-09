@@ -12,7 +12,3 @@ console.log("is this even workinghhhhhh");
 
 
 
-function printName(){
-    const test = "omar";
-    return omar;
-}
